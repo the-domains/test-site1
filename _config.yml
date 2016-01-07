@@ -1,7 +1,7 @@
 name: Test site1
 favicon: null
-layout_spectrum: 0.7124067831318825
-typography_spectrum: 0.9670553058385849
+layout_spectrum: 0.56426
+typography_spectrum: 0.65631
 cta:
   domain: null
   bucket: null
