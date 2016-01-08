@@ -4,7 +4,7 @@
         <description><![CDATA[Test site1]]></description>
         <link>https://thegrid.ai/test-site1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 15:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 16:51:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About us]]></title>
@@ -27,7 +27,7 @@ We would love to hear from you! Best wishes The Round Midnight Team
             <description><![CDATA[<article><h1>About us</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e22abcaf6f27758d2485e9caf5753a2d8ce0d50e.jpg"></article>]]></description>
             <link>https://thegrid.ai/test-site1/about-us/index.html</link>
             <guid isPermaLink="false">f84e8134-6e7b-4c89-9b19-0dacca8e35a3</guid>
-            <pubDate>Fri, 08 Jan 2016 14:40:40 GMT</pubDate>
+            <pubDate>Fri, 08 Jan 2016 16:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
