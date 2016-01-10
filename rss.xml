@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Test site1]]></title>
         <description><![CDATA[Test site1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-site1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 17:15:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 17:16:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-site1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CS5e_1yW4AAUhTR.jpg">]]></description>
+            <link>https://thegrid.ai/test-site1/ab2bd308-c5c1-438d-8fee-f677162c870c/index.html</link>
+            <guid isPermaLink="false">ab2bd308-c5c1-438d-8fee-f677162c870c</guid>
+            <pubDate>Sun, 10 Jan 2016 17:16:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Welcome to Round Midnight</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c545a43f97d1f6e392f36ad3c9263a5063ae3cc2.jpg"></article>]]></description>
-            <link>undefinedhome/index.html</link>
+            <description><![CDATA[<article><h1>Home</h1><p>Welcome to Round Midnight</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/874d7aaa25d24cbad37c538e8f93b779b962ee7a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test-site1/home/index.html</link>
             <guid isPermaLink="false">1684b6d7-8037-4aad-8885-47d347ae705a</guid>
             <pubDate>Sun, 10 Jan 2016 17:15:07 GMT</pubDate>
         </item>
