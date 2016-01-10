@@ -4,8 +4,15 @@
         <description><![CDATA[Test site1]]></description>
         <link>https://thegrid.ai/test-site1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 17:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 17:22:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CS5e_1yW4AAUhTR.jpg:large">]]></description>
+            <link>https://thegrid.ai/test-site1/9016d842-ed42-4630-b5f5-b9365d21ff7a/index.html</link>
+            <guid isPermaLink="false">9016d842-ed42-4630-b5f5-b9365d21ff7a</guid>
+            <pubDate>Sun, 10 Jan 2016 17:21:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://pbs.twimg.com/media/CS5e_1yW4AAUhTR.jpg">]]></description>
