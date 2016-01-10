@@ -4,15 +4,8 @@
         <description><![CDATA[Test site1]]></description>
         <link>https://thegrid.ai/test-site1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 09:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 09:13:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site1/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Follow Me]]></title>
-            <description><![CDATA[<article><h1>Follow Me</h1><p>“Follow Me” is a Theatre in Education performances that looks at extreme behaviour in young people’s society. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2ba65e84bcfd6f9123479936ced7f6a12b2f00c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test-site1/home/index.html</link>
-            <guid isPermaLink="false">16949c16-3456-4ba3-a8e4-ac7a430dc078</guid>
-            <pubDate>Sun, 10 Jan 2016 09:10:24 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>February 2016 marks the start of this year’s LGBT History Month. Now in its 49th year, the month long celebration aims to challenge homophobia, biphobia and transphobia, and this year’s theme is set to be ‘Religion, Belief and Philosophy’.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbdfddd90325b3bb6eaa0917ce21abcc83525c14.jpg"></article>]]></description>
