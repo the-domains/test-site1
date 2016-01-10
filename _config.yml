@@ -1,6 +1,6 @@
 name: Test site1
 favicon: null
-layout_spectrum: 0.73951
+layout_spectrum: 0.47514
 typography_spectrum: 0.65631
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#373737'
     - '#ffffe3'
     - '#f3b086'
-  brandStrength: 0.9391097880434245
+  brandStrength: 0.6875
   lightness: 0.375
-  saturation: 0.4375
+  saturation: 0.125
   rhythmicContrast: 0.5
 purpose: []
