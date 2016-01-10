@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test site1]]></title>
+        <description><![CDATA[Test site1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 17:15:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Welcome to Round Midnight</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c545a43f97d1f6e392f36ad3c9263a5063ae3cc2.jpg"></article>]]></description>
+            <link>undefinedhome/index.html</link>
+            <guid isPermaLink="false">1684b6d7-8037-4aad-8885-47d347ae705a</guid>
+            <pubDate>Sun, 10 Jan 2016 17:15:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
